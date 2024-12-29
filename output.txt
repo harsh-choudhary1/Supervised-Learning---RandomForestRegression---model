@@ -1,0 +1,6 @@
+#  Output fram RandomForestRegretion house prise prediction models
+
+1 RandomForestRegretion
+
+    Mean 156.46711129762264
+    standares deviation: 84.30419416777798
